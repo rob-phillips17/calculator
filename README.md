@@ -1,2 +1,2 @@
 # calculator
-Calculator built from scratch using vanilla HTML, CSS &amp; JavaScript.
+A calculator built from scratch using vanilla HTML, CSS &amp; JavaScript.
